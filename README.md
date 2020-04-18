@@ -1,5 +1,5 @@
 # bert-multilabel
-Generic code to use Transformer model BERT on multilabel classification tasks.
+Generic code to use Transformer model BERT on multilabel text classification tasks.
 
 ## Environment Requirements
 
